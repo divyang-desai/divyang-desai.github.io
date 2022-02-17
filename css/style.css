@@ -1,0 +1,8 @@
+.site-name {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #575e5b;
+    /*font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font-size: 100%;
+    /* margin-top:23px; */
+}
